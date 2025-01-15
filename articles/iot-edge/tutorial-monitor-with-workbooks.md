@@ -60,9 +60,9 @@ When you configure the metrics collector module, you give it the Azure Resource 
 
 1. From the Azure portal, navigate to your IoT hub.
 
-1. From the menu on the left, under **Settings**, select **Properties**.
+1. From the menu on the left, under **Hub settings**, select **Properties**.
 
-1. Copy the value of **Resource ID**. It should have the format `/subscriptions/<subscription_id>/resourceGroups/<resource_group_name>/providers/Microsoft.Devices/IoTHubs/<iot_hub_name>`.
+1. Copy the value of **Id**. It should have the format `/subscriptions/<subscription_id>/resourceGroups/<resource_group_name>/providers/Microsoft.Devices/IoTHubs/<iot_hub_name>`.
 
 ## Deploy the metrics collector module
 
